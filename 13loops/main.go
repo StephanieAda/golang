@@ -35,7 +35,7 @@ func main() {
 			rougeValue++
 			continue
 		}
-		fmt.Println("the real real Value is: ", rougeValue)
+		fmt.Println("Value is: ", rougeValue)
 		rougeValue++
 	}
 
